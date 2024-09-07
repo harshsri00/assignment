@@ -1,0 +1,179 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+.background h1{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    text-align: center;
+    color: red;
+    background-color: azure;
+    font-family: "Playwrite CU", cursive;
+}
+.background img{
+    opacity: 0.5;
+    width: 100%;
+}
+.bg h3{
+    
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline;
+}
+h2{
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline;
+}
+.bg p{
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.bg h2{
+    position: absolute;
+    top: 125%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline;   
+}
+body{
+    background-color: antiquewhite;
+}
+.bg img{
+   position: inherit;
+   width: 100%;
+   opacity: 0.5;
+}
+.j h3{
+    position: absolute;
+    top: 135%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline; 
+}
+.j p{
+    position: absolute;
+    top: 140%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.k h3{
+    position: absolute;
+    top: 155%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline; 
+}
+.k p{
+    position: absolute;
+    top: 160%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.l h3{
+    position: absolute;
+    top: 175%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline; 
+}
+.l p{
+    position: absolute;
+    top: 180%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.m h2{
+    position: absolute;
+    top: 195%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline; 
+}
+.m p{
+    position: absolute;
+    top: 200%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.n h3{
+    position: absolute;
+    top: 205%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline;
+}
+.n p{
+    position: absolute;
+    top: 210%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.o h3{
+    position: absolute;
+    top: 222%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline;
+}
+.o p{
+    position: absolute;
+    top: 227%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.p h3{
+    position: absolute;
+    top: 237%;
+    color: red;
+    font-family: "Playwrite CU", cursive;
+    text-decoration: underline;
+}
+.p p{
+    position: absolute;
+    top: 242%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.q p{
+    position: absolute;
+    top: 262%;
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+.nav{
+
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.top-left img{
+    position: absolute;
+    opacity: 1;
+    top: 6%;
+    left: 2%;
+    width: 3%;
+}
+.top-left p{
+    position: absolute;
+    left: 6%;
+    top: 6%;
+    text-transform: uppercase;
+}
